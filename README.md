@@ -1,4 +1,4 @@
-# Malawi Data Science & Machine Learning Screening Task
+# Malawi Data Science & Machine Learning Workshop Screening Task
 
 ## Data Challenge Task
 This Data Challenge has 2 tasks;
