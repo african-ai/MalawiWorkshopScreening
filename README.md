@@ -5,7 +5,7 @@
 * to identify a digit/number given optical data from handwritten digits
 
 ## Data Challenge Bounty
-### Invitation to a Data Science Workshop 
+### Invitation to a Data Science & Machine Learning Workshop 
 Where we will cover the basics of Data Science and Machine Learning using practical exercises
 
 ## Working on the Data Challenge
