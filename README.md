@@ -1,7 +1,7 @@
 # Malawi Data Science & Machine Learning Workshop Screening Task
 
 ## Data Challenge Task
-This Data Challenge has 2 tasks;
+
 * to identify a digit/number given optical data from handwritten digits
 
 ## Data Challenge Bounty
